@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Camera2Basics/app/Camera2SlowMotion/app/src/main/res/layout/activity_camera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Camera2Basics/app/Camera2SlowMotion/app/src/main/res/layout/fragment_camera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Camera2Basics/app/src/main/res/drawable/ic_photo.xml" value="0.1" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Camera2Basics/app/src/main/res/drawable/ic_shutter.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Camera2Basics/app/src/main/res/drawable/ic_shutter_focused.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Camera2Basics/app/src/main/res/drawable/ic_shutter_normal.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Camera2Basics/app/src/main/res/drawable/ic_shutter_pressed.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Camera2Basics/app/src/main/res/layout-land/fragment_camera.xml" value="0.1" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Camera2Basics/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Camera2Basics/app/src/main/res/layout/fragment_camera.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
